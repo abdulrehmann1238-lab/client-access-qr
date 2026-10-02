@@ -1,0 +1,134 @@
+[
+  {
+    "passcode": "MAPL",
+    "name": "Amara O.",
+    "street": "214 Maple Avenue",
+    "medications": [
+      {
+        "id": "med-1",
+        "name": "Metformin",
+        "strength": "500 mg oral tablet",
+        "instructions": "Take 1 tablet twice daily with meals",
+        "lastFilled": "Aug 12, 2026",
+        "refillsRemaining": 3
+      },
+      {
+        "id": "med-2",
+        "name": "Atorvastatin",
+        "strength": "20 mg oral tablet",
+        "instructions": "Take 1 tablet daily at bedtime",
+        "lastFilled": "Sep 2, 2026",
+        "refillsRemaining": 1
+      },
+      {
+        "id": "med-3",
+        "name": "Lisinopril",
+        "strength": "10 mg oral tablet",
+        "instructions": "Take 1 tablet every morning",
+        "lastFilled": "Jul 19, 2026",
+        "refillsRemaining": 0
+      },
+      {
+        "id": "med-4",
+        "name": "Levothyroxine",
+        "strength": "75 mcg oral tablet",
+        "instructions": "Take 1 tablet on an empty stomach 30 min before breakfast",
+        "lastFilled": "Aug 28, 2026",
+        "refillsRemaining": 5
+      }
+    ]
+  },
+  {
+    "passcode": "CEDA",
+    "name": "Daniel K.",
+    "street": "88 Cedar Crescent",
+    "medications": [
+      {
+        "id": "med-5",
+        "name": "Apixaban",
+        "strength": "5 mg oral tablet",
+        "instructions": "Take 1 tablet twice daily",
+        "lastFilled": "Sep 15, 2026",
+        "refillsRemaining": 2
+      },
+      {
+        "id": "med-6",
+        "name": "Ramipril",
+        "strength": "5 mg capsule",
+        "instructions": "Take 1 capsule daily",
+        "lastFilled": "Aug 20, 2026",
+        "refillsRemaining": 1
+      },
+      {
+        "id": "med-7",
+        "name": "Pantoprazole",
+        "strength": "40 mg delayed-release tablet",
+        "instructions": "Take 1 tablet daily before breakfast",
+        "lastFilled": "Jun 11, 2026",
+        "refillsRemaining": 0
+      }
+    ]
+  },
+  {
+    "passcode": "HARB",
+    "name": "Priya S.",
+    "street": "17 Harbour Street",
+    "medications": [
+      {
+        "id": "med-8",
+        "name": "Enoxaparin",
+        "strength": "40 mg/0.4 mL subcutaneous syringe",
+        "instructions": "Inject subcutaneously once daily",
+        "lastFilled": "Sep 22, 2026",
+        "refillsRemaining": 1
+      },
+      {
+        "id": "med-9",
+        "name": "Hydromorphone",
+        "strength": "2 mg oral tablet",
+        "instructions": "Take 1 tablet every 4 to 6 hours as needed for severe pain",
+        "lastFilled": "Jul 30, 2026",
+        "refillsRemaining": 0
+      },
+      {
+        "id": "med-10",
+        "name": "Ondansetron",
+        "strength": "4 mg disintegrating tablet",
+        "instructions": "Dissolve 1 tablet on tongue 30 minutes before meal",
+        "lastFilled": "Aug 14, 2026",
+        "refillsRemaining": 4
+      }
+    ]
+  },
+  {
+    "passcode": "ELMW",
+    "name": "Marcus T.",
+    "street": "502 Elmwood Drive",
+    "medications": [
+      {
+        "id": "med-11",
+        "name": "Insulin glargine",
+        "strength": "100 units/mL SoloStar pen",
+        "instructions": "Inject 24 units subcutaneously once daily at bedtime",
+        "lastFilled": "Sep 18, 2026",
+        "refillsRemaining": 2
+      },
+      {
+        "id": "med-12",
+        "name": "Insulin aspart",
+        "strength": "100 units/mL FlexPen",
+        "instructions": "Inject 6 units subcutaneously with meals",
+        "lastFilled": "Sep 10, 2026",
+        "refillsRemaining": 3
+      },
+      {
+        "id": "med-13",
+        "name": "Metformin",
+        "strength": "1000 mg oral tablet",
+        "instructions": "Take 1 tablet twice daily with breakfast and dinner",
+        "lastFilled": "Aug 05, 2026",
+        "refillsRemaining": 1
+      }
+    ]
+  }
+]

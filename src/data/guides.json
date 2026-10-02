@@ -1,0 +1,284 @@
+[
+  {
+    "id": "guide-infusion-pump",
+    "title": "Using your infusion pump",
+    "category": "Equipment",
+    "pagesCount": 4,
+    "updated": "Aug 2026",
+    "summary": "Step-by-step operating guidelines, alarm troubleshooting, and battery maintenance for ambulatory CADD-Solis pump units.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "title": "Clinical Setup & Inspection",
+        "section": "Standard Operating Procedure — SOP-402",
+        "content": [
+          "Before handling the pump or medication cassette, thoroughly wash hands with warm water and antimicrobial soap for at least 30 seconds.",
+          "Verify that the medication cassette label matches your full name, prescribed medication, and infusion rate.",
+          "Inspect the cassette latch mechanism. Ensure the flow stop clip is open before inserting tubing into the pump channel.",
+          "Check battery indicator on the top-right LCD screen. If below 2 bars, replace with four fresh alkaline AA batteries immediately."
+        ],
+        "callout": "Never force the cassette latch. If resistance is met, inspect tubing orientation."
+      },
+      {
+        "pageNumber": 2,
+        "title": "Priming & Tubing Connection",
+        "section": "Section 2: Line Priming Protocol",
+        "content": [
+          "Power on the device using the recessed switch on the right side panel.",
+          "Press the PRIME key on the keypad. Confirm on-screen prompt: 'Prime tubing now?'.",
+          "Hold the prime button until fluid droplets emerge from the distal luer-lock tip without bubbles.",
+          "Inspect the entire line against a contrasting surface to confirm no micro-air pockets remain.",
+          "Connect securely to your intravenous access port using the aseptic non-touch technique (ANTT)."
+        ],
+        "callout": "If air bubble exceeds 2 cm in tubing, re-prime line before connecting to patient catheter."
+      },
+      {
+        "pageNumber": 3,
+        "title": "Alarm Responses & Troubleshooting",
+        "section": "Section 3: Clinical Alarm Matrix",
+        "content": [
+          "High Pressure / Occlusion Alarm: Check tubing for kinks, closed clamps, or patient posture shifts compressing the lumen.",
+          "Air-in-Line Alarm: Inspect the air detector sensor recess. Wipe optical lens with alcohol wipe. Disconnect and aspirate if air detected.",
+          "Upstream Occlusion Alarm: Ensure the medication reservoir bag vent is open and fluid is not depleted.",
+          "System Fault Code 900+: Power unit off, wait 10 seconds, reboot. If error persists, call clinical after-hours immediately."
+        ],
+        "callout": "Never silence an occlusion alarm repeatedly without physically inspecting the IV line."
+      },
+      {
+        "pageNumber": 4,
+        "title": "Emergency Disconnect & Daily Storage",
+        "section": "Section 4: Safety & Handover",
+        "content": [
+          "To pause infusion for dressing change or emergency: press STOP, clamp the line clamp closest to the cannula, and disconnect luer.",
+          "Place a sterile cap on both the pump line tip and the catheter extension lumen.",
+          "Store the pump in the provided water-resistant shoulder holster during ambulation.",
+          "Keep pump away from direct heat sources, open flame, and electromagnetic interference.",
+          "Record remaining volume on your clinical daily tracking sheet every morning at 09:00."
+        ],
+        "callout": "For unresolved alarms between 5:00 PM and 8:00 AM, use the Clinical After Hours Support button."
+      }
+    ]
+  },
+  {
+    "id": "guide-injection-technique",
+    "title": "Injection technique: step by step",
+    "category": "Medications",
+    "pagesCount": 3,
+    "updated": "Aug 2026",
+    "summary": "Subcutaneous injection instructions for enoxaparin, insulin, and biologic therapies with anatomical site rotation.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "title": "Preparation & Site Selection",
+        "section": "Aseptic Subcutaneous Administration Protocol",
+        "content": [
+          "Clean a clean, dry table surface with a disinfectant wipe. Gather syringe, 2 alcohol swabs, and sharps container.",
+          "Verify the medication name, dose, expiry date, and appearance (clear solution, free of cloudiness or particulate).",
+          "Recommended sites: Lower abdomen (at least 5 cm / 2 inches away from navel), outer thighs, or back of upper arms.",
+          "Maintain a rotation log: never inject into the identical site twice in a 7-day period to prevent lipohypertrophy."
+        ],
+        "callout": "Do not inject into bruised, tender, red, or scarred skin."
+      },
+      {
+        "pageNumber": 2,
+        "title": "Aspiration & Administration",
+        "section": "Section 2: 90° & 45° Injection Steps",
+        "content": [
+          "Swab injection site with alcohol in an outward spiral motion. Allow skin to air-dry completely for 15 seconds.",
+          "Gently pinch a 2-inch fold of skin between thumb and index finger to lift subcutaneous tissue from muscle.",
+          "Insert needle swiftly at a 90-degree angle (or 45-degree angle if very lean body habitus).",
+          "Depress plunger smoothly and steadily until all medication is delivered.",
+          "Wait 5 seconds before releasing skin pinch and withdrawing the needle straight out."
+        ],
+        "callout": "For prefilled enoxaparin syringes: do not expel the tiny air bubble prior to injection."
+      },
+      {
+        "pageNumber": 3,
+        "title": "Post-Injection Care & Disposal",
+        "section": "Section 3: Needle Safety & Documentation",
+        "content": [
+          "Apply gentle pressure with dry sterile gauze for 10 seconds. Do not massage or rub the injection site.",
+          "Activate safety needle shield immediately until a distinct click is heard.",
+          "Drop syringe directly into your approved yellow biohazard sharps container. Never recap a used needle.",
+          "Record injection date, time, site abbreviation (e.g., L-ABD, R-THIGH), and dosage in your patient handbook."
+        ],
+        "callout": "When your sharps container reaches the 'Full' fill line, seal permanently and contact clinic for exchange."
+      }
+    ]
+  },
+  {
+    "id": "guide-picc-dressing",
+    "title": "Caring for your PICC line dressing",
+    "category": "Wound care",
+    "pagesCount": 4,
+    "updated": "Sep 2026",
+    "summary": "Maintenance of central venous line transparent dressings, biopatch checks, and signs of catheter-related bloodstream infection.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "title": "Dressing Assessment Criteria",
+        "section": "Central Vascular Access Maintenance",
+        "content": [
+          "Your transparent PICC dressing must remain completely clean, dry, and intact (CDI) at all times.",
+          "Inspect dressing visually twice daily: once in the morning and once before retiring for bed.",
+          "Check the chlorhexidine gluconate (CHG) biopatch sponge: blue grid side must face upwards toward ceiling.",
+          "Confirm catheter external measurement markings match your discharge card (e.g. 3 cm visible external length)."
+        ],
+        "callout": "If external catheter length has shifted by more than 2 cm, call nursing triage immediately."
+      },
+      {
+        "pageNumber": 2,
+        "title": "Showering & Moisture Protection",
+        "section": "Section 2: Moisture Prevention Protocol",
+        "content": [
+          "Never submerge the PICC arm in bath water, swimming pools, or hot tubs.",
+          "Wrap arm thoroughly with plastic cling wrap extending 4 inches above and below the dressing perimeter.",
+          "Secure edges with waterproof medical tape or slide a certified silicone shower sleeve over the arm.",
+          "Keep arm angled away from direct shower spray. Inspect immediately after shower for moisture infiltration."
+        ],
+        "callout": "If water breaches dressing, it must be changed by nursing staff within 4 hours to prevent bacteremia."
+      },
+      {
+        "pageNumber": 3,
+        "title": "Signs of Complication & Infection",
+        "section": "Section 3: Early Warning Indicators",
+        "content": [
+          "Erythema: Redness spreading outward along vein tract (cord sign).",
+          "Swelling / Edema: Arm or neck circumference noticeably increased on the catheter side.",
+          "Pain or tenderness along inner arm, shoulder, or chest wall.",
+          "Exudate: Yellow, green, or cloudy discharge visible under transparent dressing window.",
+          "Systemic fever: Body temperature above 38.0°C (100.4°F), rigors, or sudden shivering."
+        ],
+        "callout": "Sudden fever with chills in a PICC patient is a medical emergency. Call after-hours triage immediately."
+      },
+      {
+        "pageNumber": 4,
+        "title": "Weekly Nurse Visit Handover",
+        "section": "Section 4: Care Coordination",
+        "content": [
+          "Home nursing visits occur weekly (every 7 days) for sterile dressing, biopatch, and StatLock stabilization replacement.",
+          "Maintain PICC care kit box in a cool, dry area away from pets and children.",
+          "Ensure catheter clamps remain locked whenever the line is not in active infusion use.",
+          "Contact the clinic 48 hours prior if you need additional saline flushes or alcohol disinfection caps."
+        ],
+        "callout": "Do not attempt to change the sterile PICC dressing yourself unless specifically trained by our clinical team."
+      }
+    ]
+  },
+  {
+    "id": "guide-er-vs-after-hours",
+    "title": "When to call versus go to the ER",
+    "category": "Emergencies",
+    "pagesCount": 2,
+    "updated": "Sep 2026",
+    "summary": "Triage guidance distinguishing life-threatening emergencies requiring 911/ER from urgent after-hours clinic telephone triage.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "title": "Emergency: Call 911 / Hospital ER",
+        "section": "Critical Triage Decision Tree",
+        "content": [
+          "Acute chest pain, pressure, or tightness radiating to jaw, neck, back, or left arm.",
+          "Sudden shortness of breath, gasping, or inability to speak in complete sentences.",
+          "Signs of stroke: Facial drooping, arm weakness or numbness, slurred speech (FAST criteria).",
+          "Severe sudden hemorrhage or uncontrolled bleeding not stopping after 10 minutes of direct pressure.",
+          "Sudden confusion, loss of consciousness, seizures, or severe anaphylactic allergic swelling."
+        ],
+        "callout": "Do NOT use this web portal for 911 emergencies. Dial 911 immediately or proceed to nearest Emergency Department."
+      },
+      {
+        "pageNumber": 2,
+        "title": "Clinic After Hours Support",
+        "section": "Clinical On-Call Nursing Service",
+        "content": [
+          "Infusion pump alarms that cannot be cleared following standard protocol.",
+          "Catheter insertion site redness, slight seepage, or dressing detachment.",
+          "Medication adverse effects: mild nausea, dizziness, missed dose guidance, or rash without respiratory symptoms.",
+          "Urgent prescription refill required overnight to prevent critical dose interruption.",
+          "Clinician is reachable 5:00 PM – 8:00 AM weekdays and 24 hours on weekends via the After Hours tab."
+        ],
+        "callout": "Submitting the After Hours form logs your clinical issue and opens direct telephone connection to our on-call clinician."
+      }
+    ]
+  },
+  {
+    "id": "guide-medication-storage",
+    "title": "Storing medications at home",
+    "category": "Medications",
+    "pagesCount": 3,
+    "updated": "Jul 2026",
+    "summary": "Temperature monitoring guidelines, refrigeration protocols (2°C to 8°C), and light protection for clinical pharmaceuticals.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "title": "Temperature Controlled Storage",
+        "section": "Cold-Chain Integrity at Home",
+        "content": [
+          "Refrigerated medications (insulin, biologics, reconstituted antibiotics) must remain between 2°C and 8°C (36°F to 46°F).",
+          "Place medications on the middle refrigerator shelf. Never store inside door bins (temperature fluctuates with opening).",
+          "Never store directly adjacent to refrigerator freezer chiller vents to prevent accidental freezing.",
+          "Frozen medications must be discarded even if thawed, as peptide structures denature upon freezing."
+        ],
+        "callout": "Use a dedicated refrigerator thermometer and check dial reading daily."
+      },
+      {
+        "pageNumber": 2,
+        "title": "Room Temperature & Ambient Guidelines",
+        "section": "Section 2: Dry Ambient Storage",
+        "content": [
+          "Controlled room temperature is defined as 15°C to 25°C (59°F to 77°F).",
+          "Do not store oral tablets in bathroom medicine cabinets due to high steam humidity and thermal cycling.",
+          "Keep original amber bottles tightly closed to protect hygroscopic compounds from ambient moisture.",
+          "Protect light-sensitive injectables in their protective cardboard cartons until immediate moment of use."
+        ],
+        "callout": "During summer heatwaves without air conditioning, consult the pharmacy for temporary cool-pack storage guidance."
+      },
+      {
+        "pageNumber": 3,
+        "title": "Travel & Power Outage Protocol",
+        "section": "Section 3: Contingency Management",
+        "content": [
+          "When traveling by automobile or aircraft, carry all medications in insulated cooler bags with gel ice packs.",
+          "Never pack vital clinical medications in airline checked luggage; always carry in personal cabin baggage.",
+          "During home power outages exceeding 4 hours: keep refrigerator door sealed to conserve thermal mass.",
+          "If outage exceeds 12 hours, call clinic pharmacy to assess medication viability before administering."
+        ],
+        "callout": "We provide emergency power backup advisories for clients on continuous mechanical infusion therapy."
+      }
+    ]
+  },
+  {
+    "id": "guide-sharps-disposal",
+    "title": "Sharps disposal",
+    "category": "Equipment",
+    "pagesCount": 2,
+    "updated": "Aug 2026",
+    "summary": "Safe handling of used needles, lancets, and infusion stylets in compliance with provincial biohazardous waste regulations.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "title": "Sharps Safety Rules",
+        "section": "Biohazardous Waste Handling Protocol",
+        "content": [
+          "Immediately drop used needles, syringes, and infusion cannulae into an approved rigid puncture-proof sharps container.",
+          "Never bend, break, shear, or recap needles by hand under any circumstances.",
+          "Keep sharps containers at eye level, stable, and out of reach of household pets and young children.",
+          "Do not force items into the container opening. Never insert fingers into the container aperture."
+        ],
+        "callout": "Needlestick injuries require immediate soap washing and 24/7 post-exposure prophylaxis triage."
+      },
+      {
+        "pageNumber": 2,
+        "title": "Container Sealing & Clinic Return",
+        "section": "Section 2: Return & Exchange Procedure",
+        "content": [
+          "When contents reach the 3/4 fill indicator line, engage the irreversible locking lid mechanism until it snaps.",
+          "Wipe outer exterior of container with a hospital-grade disinfectant wipe.",
+          "Bring sealed container to Harbourline clinic reception or participating community pharmacy depot for safe incineration.",
+          "Never place loose or bottled sharps in municipal household garbage, blue recycling bins, or compost bins."
+        ],
+        "callout": "Need replacement sharps containers? Request through the Request Documents & Supplies menu or call our office."
+      }
+    ]
+  }
+]
